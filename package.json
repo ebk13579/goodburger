@@ -1,5 +1,5 @@
 {
-  "name": "burger",
+  "name": "goodburger",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beardybones/burger.git"
+    "url": "git+https://github.com/ebk13579/goodburger"
   },
-  "author": "",
+  "author": "EBK",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/beardybones/burger/issues"
+    "url": "https://github.com/ebk13579/goodburger/issues"
   },
-  "homepage": "https://github.com/beardybones/burger#readme",
+  "homepage": "https://github.com/ebk13579/goodburger#goodburger",
   "dependencies": {
     "express": "^4.16.4",
     "express-handlebars": "^3.0.0",
